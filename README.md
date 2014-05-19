@@ -2,7 +2,7 @@
 
 Simple Server in Go
 
-It is an alternative to `python -m SimpleHTTPServer".
+It is an alternative to `python -m SimpleHTTPServer`.
 
 Just install it by typing `go get github.com/hariharan-uno/goserve` and cd into any directory and run `goserve`.
 
